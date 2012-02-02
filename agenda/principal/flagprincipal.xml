@@ -1,0 +1,14 @@
+<ACTIONS>
+ 
+    <action>
+       	<name>ag_citas</name>
+       	<description>QT_TRANSLATE_NOOP("MetaData","Dar cita)</description>
+       	<alias>QT_TRANSLATE_NOOP("MetaData","Dar Cita")</alias>
+       	<table>ag_citas</table>
+       	<form>ag_mastercitas</form>
+       	<formrecord>ag_citas</formrecord>
+	<scriptform>ag_mastercitas</scriptform>
+        <scriptformrecord>ag_citas</scriptformrecord>
+    </action>
+	
+</ACTIONS> 
