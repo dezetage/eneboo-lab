@@ -9,12 +9,12 @@ En el formulario maestro podremos filtrar las citas por intervalos de fechas par
 ---------------------
 Capturas de pantalla
 ---------------------
-.. figure:: https://github.com/rmenor/eneboo-lab/tree/master/agenda/doc/master_citas.png?raw=true
+.. figure:: /rmenor/eneboo-lab/tree/master/agenda/doc/master_citas.png?raw=true
   :width: 500px
 
   Detalle de los intervalos del formulario maestro
 
-.. figure:: https://github.com/rmenor/eneboo-lab/tree/master/agenda/doc/edicion_citas.png?raw=true
+.. figure:: /rmenor/eneboo-lab/tree/master/agenda/doc/edicion_citas.png?raw=true
   :width: 500px
 
   Edición de citas
