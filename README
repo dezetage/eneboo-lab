@@ -1,3 +1,13 @@
 Este repositorio incluirá las extensiones desarrolladas por terceros y extensiones para realizar pruebas.
 
 Aunque se testearán para su correcto funcionamiento no se recomienda su uso en sistemas en producción.
+
+Para facilitar las pruebas las extensiones deben estar listas para instalar en una base de datos que contenga solo los módulos básicos de Eneboo. Si dependen de algún módulo se debe especificar en la documentación.
+
+Las extensiones se crearán en un fork personal y posteriormente se irán subiendo aquí.
+
+Cada extensión estará alojada en una carpeta con el nombre de la extensión.
+
+La documentación se realizar mediante un fichero .rst tal como se describe en https://github.com/gestiweb/eneboo-doc/tree/master/features
+
+Una vez probadas y garantizando su funcionamiento podrán pasar a formar parte de eneboo-features con su numeración correspondiente y listas para integrar en cualquier rama.
