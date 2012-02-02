@@ -102,7 +102,9 @@ function interna_init()
 	connect(this.iface.fechaDesde, "valueChanged(const QDate&)", this, "iface.actualizarFiltro");
 	connect(this.iface.fechaHasta, "valueChanged(const QDate&)", this, "iface.actualizarFiltro");
 	connect(this.iface.cbxIntervalos, "activated(int)", this, "iface.intervaloFiltro");
-
+	
+	this.iface.tdbRecords.setColumnWidth("codigo", 1);
+	
 	this.iface.actualizarFiltro(); 
 }
 

@@ -12,7 +12,7 @@
 		<type>string</type>
 		<length>28</length>
 		<unique>true</unique>
-		<visiblegrid>false</visiblegrid>
+		<visiblegrid>true</visiblegrid>
 	</field>
 		
 	<field>

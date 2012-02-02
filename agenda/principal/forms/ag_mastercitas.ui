@@ -378,7 +378,7 @@
                         <widget class="QComboBox">
                             <item>
                                 <property name="text">
-                                    <string>Libre</string>
+                                    <string>Manual</string>
                                 </property>
                             </item>
                             <item>

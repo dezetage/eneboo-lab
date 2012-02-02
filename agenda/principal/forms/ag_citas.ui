@@ -9,7 +9,7 @@
             <x>0</x>
             <y>0</y>
             <width>553</width>
-            <height>311</height>
+            <height>309</height>
         </rect>
     </property>
     <property name="caption">
@@ -289,99 +289,10 @@
                 </widget>
             </hbox>
         </widget>
-        <widget class="QGroupBox">
-            <property name="name">
-                <cstring>groupBox7</cstring>
-            </property>
-            <property name="font">
-                <font>
-                    <bold>1</bold>
-                    <italic>1</italic>
-                </font>
-            </property>
-            <property name="title">
-                <string>Tratamiento</string>
-            </property>
-            <hbox>
-                <property name="name">
-                    <cstring>unnamed</cstring>
-                </property>
-                <widget class="FLFieldDB">
-                    <property name="name">
-                        <cstring>fdbReferencia</cstring>
-                    </property>
-                    <property name="sizePolicy">
-                        <sizepolicy>
-                            <hsizetype>1</hsizetype>
-                            <vsizetype>0</vsizetype>
-                            <horstretch>0</horstretch>
-                            <verstretch>0</verstretch>
-                        </sizepolicy>
-                    </property>
-                    <property name="minimumSize">
-                        <size>
-                            <width>26</width>
-                            <height>22</height>
-                        </size>
-                    </property>
-                    <property name="maximumSize">
-                        <size>
-                            <width>220</width>
-                            <height>32767</height>
-                        </size>
-                    </property>
-                    <property name="font">
-                        <font>
-                            <bold>0</bold>
-                            <italic>0</italic>
-                        </font>
-                    </property>
-                    <property name="fieldName">
-                        <string>referencia</string>
-                    </property>
-                </widget>
-                <widget class="FLFieldDB">
-                    <property name="name">
-                        <cstring>fdbDescripcion</cstring>
-                    </property>
-                    <property name="sizePolicy">
-                        <sizepolicy>
-                            <hsizetype>1</hsizetype>
-                            <vsizetype>0</vsizetype>
-                            <horstretch>0</horstretch>
-                            <verstretch>0</verstretch>
-                        </sizepolicy>
-                    </property>
-                    <property name="minimumSize">
-                        <size>
-                            <width>4</width>
-                            <height>21</height>
-                        </size>
-                    </property>
-                    <property name="font">
-                        <font>
-                            <bold>0</bold>
-                            <italic>0</italic>
-                        </font>
-                    </property>
-                    <property name="fieldName">
-                        <string>descripcion</string>
-                    </property>
-                    <property name="foreignField">
-                        <string>descripcion</string>
-                    </property>
-                    <property name="fieldRelation">
-                        <string>referencia</string>
-                    </property>
-                </widget>
-            </hbox>
-        </widget>
     </vbox>
 </widget>
 <layoutdefaults spacing="6" margin="11"/>
 <includehints>
-    <includehint>flfielddb.h</includehint>
-    <includehint>flfielddb.h</includehint>
     <includehint>flfielddb.h</includehint>
     <includehint>flfielddb.h</includehint>
     <includehint>flfielddb.h</includehint>
