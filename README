@@ -8,6 +8,6 @@ Las extensiones se crearán en un fork personal y posteriormente se irán subien
 
 Cada extensión estará alojada en una carpeta con el nombre de la extensión.
 
-La documentación se realizar mediante un fichero .rst tal como se describe en https://github.com/gestiweb/eneboo-doc/tree/master/features
+La documentación se realizar mediante un fichero .rst tal como se describe en https://github.com/gestiweb/eneboo-doc/tree/master/lab
 
 Una vez probadas y garantizando su funcionamiento podrán pasar a formar parte de eneboo-features con su numeración correspondiente y listas para integrar en cualquier rama.
